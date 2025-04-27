@@ -17,3 +17,6 @@ name = "dynamic_vault"
 [dependencies]
 anchor-lang = { version = "0.28.0", features = ["event-cpi"] }
 anchor-spl = "0.28.0"
+solana-program = "=1.16.15"  
+spl-token = "=4.0.0"         
+spl-memo = "=4.0.0"          
